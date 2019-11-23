@@ -1,12 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### The aim was to address basic but very important topics needed to understand how React works.
-### Details - This project demonstrates the use of some practices such as:
+###The aim was to address basic but very important topics needed to understand how React works.
 
-## Control State Application
-## Component Creation
-## Creation of Styles
-## Parameter passing to objects
+###Details - This project demonstrates the use of some practices such as:
+
+## => Control State Application
+## => Component Creation
+## => Creation of Styles
+## => Parameter passing to objects
+
+###Published in Heroku https://model-calculator.herokuapp.com/
+
 
 ## Available Scripts
 
