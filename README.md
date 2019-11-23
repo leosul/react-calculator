@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### The aim was to address basic but very important topics needed to understand how React works.
+### Details - This project demonstrates the use of some practices such as:
+
+## Control State Application
+## Component Creation
+## Creation of Styles
+## Parameter passing to objects
+
 ## Available Scripts
 
 In the project directory, you can run:
